@@ -4,7 +4,7 @@ Design and implementation of a software system that allows travel agencies to ma
 
 ---
 
-# Specification
+## Specification
 
 1. Each travel package has a name, a passenger capacity, an itinerary (list of destinations) and a list of it's passenger.
 2. Each destination has a name, and a list of the activities available at that destination.
@@ -42,7 +42,7 @@ High Level Diagram and Low Level Diagram alongwith implementation in Java progra
 ---
 
 
-# How to run:
+## How to run:
 
 1. Clone the repo.
 2. Execute/Run the Main.java file.
